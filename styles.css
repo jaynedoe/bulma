@@ -1,0 +1,19 @@
+.hero-main h1{
+    margin-top: 120px;
+    margin-bottom: 24px;
+} 
+
+h1 {
+    font-size: 60px;
+    font-weight: 800;
+    line-height: 64px;
+}
+
+.navbar{
+    background-color: palevioletred;
+}
+
+.why{
+    background-color:palevioletred;
+    height: 500px;
+}
